@@ -11,4 +11,6 @@ Has GUI wizards to create a textsecure account and add contacts.
 
 It is completely insecure.
 
+![Screenshot Image](https://raw.githubusercontent.com/TerrorM/pytextsecure/master/docs/pytextsecure-screenshot.png)
+
 ![Mascot Image](https://raw.githubusercontent.com/TerrorM/pytextsecure/master/docs/mascot.jpg)
